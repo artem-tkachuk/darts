@@ -1,0 +1,1 @@
+Simulation of the game described in ["Darts in Higher Dimensions (with 3blue1brown)"](https://youtu.be/6_yU9eJ0NxA) video on Numberphile channel.  
